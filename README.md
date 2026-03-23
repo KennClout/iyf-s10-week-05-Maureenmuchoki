@@ -40,10 +40,12 @@ This project is a dynamic To-Do List application built using HTML, CSS, and Java
 - Managing checkboxes to reflect task completion properly
 - Solved these by using event listeners, class toggling, and a dedicated displayTasks function
 
-## Screenshots (optional)
-[My To-Do List Output](screenshots/My%20To-Do%20List%20output.png)
+## Screenshots
+
+![My To-Do List Output](screenshots/My-To-Do-List-Output.png)
 
 ## Live Demo (if deployed)
+
 [View Live Demo](https://maureenmuchoki-hub.github.io/iyf-s10-week-05-Maureenmuchoki/)
 
-[My To-Do List](https://maureenmuchoki-hub.github.io/iyf-s10-week-05-Maureenmuchoki/index.html)
+[My To-Do List App](https://maureenmuchoki-hub.github.io/iyf-s10-week-05-Maureenmuchoki/index.html)
