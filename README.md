@@ -44,8 +44,6 @@ This project is a dynamic To-Do List application built using HTML, CSS, and Java
 
 ![My To-Do List Output](screenshots/My-To-Do-List-Output.png)
 
-## Live Demo (if deployed)
-
-[View Live Demo](https://maureenmuchoki-hub.github.io/iyf-s10-week-05-Maureenmuchoki/)
+## Live Demo
 
 [My To-Do List App](https://maureenmuchoki-hub.github.io/iyf-s10-week-05-Maureenmuchoki/index.html)
