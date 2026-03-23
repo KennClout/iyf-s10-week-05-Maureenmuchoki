@@ -12,10 +12,10 @@ function addTask() { /*reates a function called addTask*/
 
     li.innerHTML = `
         <label>
-            <input type="checkbox"> /*to mark the task as done*/
-            <span>${text}</span> /*shows the task text?
+            <input type="checkbox"> 
+            <span>${text}</span> 
         </label>
-        <button class="delete">✖</button> /*to remove the task*/
+        <button class="delete">✖</button> 
     `;
 
     taskList.appendChild(li); /*Adds the new task (li) to the task list on the page*/
