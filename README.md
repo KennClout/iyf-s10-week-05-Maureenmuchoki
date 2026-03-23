@@ -29,19 +29,21 @@ This project is a dynamic To-Do List application built using HTML, CSS, and Java
    git clone https://github.com/maureenmuchoki-hub/iyf-s10-week-05-Maureenmuchoki.git
 
 ## Lessons Learned
-Working with the DOM to dynamically create, update, and remove elements
-Handling user events such as clicks and keyboard inputs
-Implementing task filtering logic
-Managing application state (completed, active tasks) in real-time
+- Working with the DOM to dynamically create, update, and remove elements
+- Handling user events such as clicks and keyboard inputs
+- Implementing task filtering logic
+- Managing application state (completed, active tasks) in real-time
 
 ## Challenges Faced
-Ensuring the filtering worked correctly while tasks were added or deleted
-Updating task counters dynamically after every action
-Managing checkboxes to reflect task completion properly
-Solved these by using event listeners, class toggling, and a dedicated displayTasks function
+- Ensuring the filtering worked correctly while tasks were added or deleted
+- Updating task counters dynamically after every action
+- Managing checkboxes to reflect task completion properly
+- Solved these by using event listeners, class toggling, and a dedicated displayTasks function
 
 ## Screenshots (optional)
-[My To-Do List Output](screenshots/My-To-Do-List-output.png)
+[My To-Do List Output](screenshots/My%20To-Do%20List%20output.png)
 
 ## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
+[View Live Demo](https://maureenmuchoki-hub.github.io/iyf-s10-week-05-Maureenmuchoki/)
+
+[My To-Do List](https://maureenmuchoki-hub.github.io/iyf-s10-week-05-Maureenmuchoki/index.html)
