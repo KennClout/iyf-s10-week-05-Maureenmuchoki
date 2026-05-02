@@ -1,8 +1,8 @@
 # Week 5: DOM Manipulation
 
 ## Author
-- **Name:** Maureen Muchoki  
-- **GitHub:** [@Maureenmuchoki](https://github.com/maureenmuchoki-hub)  
+- **Name:** KennClout 
+- **GitHub:** [@KennClout](https://github.com/KennClout-hub)  
 - **Date:** March 23, 2026  
 
 ## Project Description
@@ -46,4 +46,4 @@ This project is a dynamic To-Do List application built using HTML, CSS, and Java
 
 ## Live Demo
 
-[My To-Do List App](https://maureenmuchoki-hub.github.io/iyf-s10-week-05-Maureenmuchoki/index.html)
+[My To-Do List App](https://KennClout-hub.github.io/iyf-s10-week-05-KennClout/index.html)
