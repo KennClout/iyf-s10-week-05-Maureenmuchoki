@@ -1,8 +1,8 @@
 # Week 5: DOM Manipulation
 
 ## Author
-- **Name:** Maureen Muchoki  
-- **GitHub:** [@Maureenmuchoki](https://github.com/maureenmuchoki-hub)  
+- **Name:** Kenneth Kabathi 
+- **GitHub:** [@KennClout](https://github.com/Kennclout-hub)  
 - **Date:** March 23, 2026  
 
 ## Project Description
@@ -26,7 +26,7 @@ This project is a dynamic To-Do List application built using HTML, CSS, and Java
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/maureenmuchoki-hub/iyf-s10-week-05-Maureenmuchoki.git
+   git clone https://github.com/kennclout-hub/iyf-s10-week-05-Kennclout.git
 
 ## Lessons Learned
 - Working with the DOM to dynamically create, update, and remove elements
@@ -46,4 +46,4 @@ This project is a dynamic To-Do List application built using HTML, CSS, and Java
 
 ## Live Demo
 
-[My To-Do List App](https://maureenmuchoki-hub.github.io/iyf-s10-week-05-Maureenmuchoki/index.html)
+[My To-Do List App](https://kennclout-hub.github.io/iyf-s10-week-05-Kennclout/index.html)
